@@ -4,19 +4,17 @@ This repository contains my work for the Applied Statistics module at ATU. I'm w
 
 ## What's in here
 
-The repository is organized into some main problem areas:
+The repository is organized into some main areas:
 
-**problem1/** - The Lady Tasting Tea experiment  
-I'm looking at Ronald Fisher's famous experiment about whether someone can actually tell if milk was added before or after tea. This gets into hypothesis testing and probability calculations.
+**problems.ipynb** - Final solutions notebook  
+This contains the consolidated final versions of all problem solutions, ready for submission.
 
-**problem2/** - Normal Distribution analysis  
-Working with the normal distribution - both the theory behind it and practical applications. Includes some simulation work with larger datasets.
-
-**problem3/** - Normal Distribution analysis  
-Working with the normal distribution - both the theory behind it and practical applications. Includes some simulation work with larger datasets.
-
-**roughwork/** - My notes and experiments  
-This is where I keep my rough work, failed attempts, and personal notes. Not part of the actual submission.
+**roughwork/** - Problem studies and development work  
+This is where I keep my detailed problem studies, experiments, and development work:
+- **problem1/** - The Lady Tasting Tea experiment studies and analysis
+- **problem2/** - Normal Distribution analysis and simulations  
+- **problem3/** - Additional Normal Distribution work and explorations
+- Plus my rough notes, failed attempts, and personal experiments used to develop the final solutions.
 
 ## Running the code
 
