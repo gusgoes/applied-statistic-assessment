@@ -20,12 +20,6 @@ This is where I keep my detailed problem studies, experiments, and development w
 
 You'll need Python with the usual scientific libraries. I've included a `requirements.txt` file with everything needed:
 
-```bash
-pip install -r requirements.txt
-```
-
-The notebooks should run from top to bottom, though I tried to make each section work by itself too.
-
 ## About the work
 
 I wrote these notebooks like I'm explaining to a friend - lots of explanations, breaking down the tricky parts, and commenting everything. 
@@ -37,5 +31,3 @@ The idea is to show I actually understand what's going on, not just that I can c
 ## Organization
 
 I'm making commits regularly as I work - the guidelines say to show steady progress, not rush everything at the end.
-
-The actual assessment stuff is in problem1/ and problem2/. Everything else is just extras.
